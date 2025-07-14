@@ -15,8 +15,8 @@ There are 6 modes avaliable:
   - 64x Programmer Art Textures (for low-end devices)
 
 ## Screenshots
-![An example of enchanted items with Slick Glow on](preview1.png)
-An example of enchanted items with Slick Glow on
+![An example of enchanted items with Sleek Glow on](preview1.png)
+An example of enchanted items with Sleek Glow on
 
 ![A player's first person view with Shield and Iron Sword being held](preview2.png)
 A player's first person view with Shield and Iron Sword being held
