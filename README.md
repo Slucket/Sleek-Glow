@@ -1,3 +1,3 @@
-# Java Enchantmemt Glint
-Do you want to make non-smooth and pixelated Minecraft Bedrock enchantment glint look like the Java one? Well, this texture pack closes the enchantment glint parity gap between Java and Bedrock.
-# [More info](https://www.qwermc.gq/content/jeg)
+# Sleek Glow
+A Minecraft Bedrock resource pack that replaces the default pixelated enchantment glint with a better smooth one similar to Java Edition.
+Was Java Enchantment Glint previously.
