@@ -21,8 +21,8 @@ An example of enchanted items with Sleek Glow on
 ![A player's first person view with Shield and Iron Sword being held](preview2.png)
 A player's first person view with Shield and Iron Sword being held
 
-![A player's first person of mining a stone with a Diamond Pickaxe](preview3.png)
-A player's first person view with Shield and Iron Sword being held
+![A player's first person scene of mining a stone with a Diamond Pickaxe](preview3.png)
+A player's first person scene of mining a stone with a Diamond Pickaxe
 
 
 ## Contacts
