@@ -1,5 +1,12 @@
 # Changelog
 
+## 3.2.0 (Nov 13, 2025)
+- Added spear support (1.21.130+)
+- Updated the pack UUID
+- The pack can now be used with Vibrant Visuals
+- Lower the minimum game version to 1.21.110 
+- Bump version to 3.2.0
+
 ## 3.1.0 (Nov 10, 2025)
 - Added support for
   - Compass
@@ -13,7 +20,6 @@
 - Improved pack icon
 - Updated the pack UUID
 - Bump version to 3.1.0
-
 
 ## 3.0.0 (Jul 14, 2025)
 - Added support for Mace and Copper tools
